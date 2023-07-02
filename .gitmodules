@@ -1,0 +1,3 @@
+[submodule "third/esp-idf"]
+	path = third/esp-idf
+	url = https://github.com/toitware/esp-idf/
